@@ -1,5 +1,7 @@
 # GFT-Start-Woman-Java
 ********************************************************************************************
+Loops 
+
 Progama para saber o nome e a idade
 
 ![image](https://user-images.githubusercontent.com/72118415/170891412-92630a45-16fb-47ea-9c36-00d7efdd3804.png)
@@ -25,6 +27,11 @@ Programa para fazer a tabuada
 ![image](https://user-images.githubusercontent.com/72118415/170893256-1b0793d5-e874-4b56-8c20-def2383451a7.png)
 
 Programa para acha o Fatorial
+
+![image](https://user-images.githubusercontent.com/72118415/170894130-b24e750b-0bb8-4253-84b9-4711c705cdca.png)
+
+
+Arrays 
 
 
 
