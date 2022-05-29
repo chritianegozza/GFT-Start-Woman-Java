@@ -8,6 +8,12 @@ Programa para saber a nota válida
 
 ![image](https://user-images.githubusercontent.com/72118415/170891387-d55298c7-d49e-4b7d-98d8-52f87504b895.png)
 
+Programa para acha o maior e a média
+
+
+![image](https://user-images.githubusercontent.com/72118415/170892410-4a40f8c6-6e98-43ae-bfd1-75a341caff47.png)
+
+
 
 *****************************************************************************************
 Projeto
