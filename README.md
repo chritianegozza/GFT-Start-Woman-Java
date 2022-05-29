@@ -1,6 +1,6 @@
-# GFT-Start-Woman-Java
+#  💜 🚺 GFT Start Woman Java
 ********************************************************************************************
-Loops 
+🔄 Loops 
 
 Progama para saber o nome e a idade
 
@@ -31,7 +31,7 @@ Programa para acha o Fatorial
 ![image](https://user-images.githubusercontent.com/72118415/170894130-b24e750b-0bb8-4253-84b9-4711c705cdca.png)
 
 
-Arrays 
+## 🔢Arrays 
 
 Ordem Inversa
 
@@ -49,20 +49,39 @@ Numeros Aleatórios
 
 Array Multidimensional
 
+![image](https://user-images.githubusercontent.com/72118415/170896004-d8033ca5-2b39-40db-b73b-3760ee58fef5.png)
+
+
 *****************************************************************************************
-Projeto
+👩🏻‍💻  Projeto
 
 
 Exercício feito durante o bootcamp da Digital innovation one, onde estudamos algums tropicos 
 como Estruturas de Repetição e Arrays em Java.
 
+- nome e a idade
 
+- maior e a média
+
+- números ímpar e par
+
+- tabuada 
+
+- Fatorial
+
+- Ordem Inversa
+
+- Consoantes
+
+- Numeros Aleatórios
+
+- Array Multidimensional
 
 ******************************************************************************************
-Linguagem
+🚀 Linguagem
 
-JAVA
+✅ JAVA
 
 ****************************************************************************************
-Caso você queria saber mais sobre o projeto das aulas e fazer os bootcamps basta acessar 
+📝 Caso você queria saber mais sobre o projeto das aulas e fazer os bootcamps basta acessar 
 [aqui.]()
