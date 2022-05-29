@@ -38,7 +38,14 @@ Ordem Inversa
 ![image](https://user-images.githubusercontent.com/72118415/170895505-a82a0463-3d0c-4475-b1b0-86d9603fc9b9.png)
 
 
+Consoantes
 
+![image](https://user-images.githubusercontent.com/72118415/170895686-a9931e3f-b78e-421b-b690-ef7ff5034717.png)
+
+Numeros Aleatórios
+
+
+Array Multidimensional
 
 *****************************************************************************************
 Projeto
