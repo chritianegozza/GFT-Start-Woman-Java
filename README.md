@@ -1,9 +1,10 @@
 # GFT-Start-Woman-Java
 ********************************************************************************************
+Progama para saber o nome e a idade
 
 ![image](https://user-images.githubusercontent.com/72118415/170891412-92630a45-16fb-47ea-9c36-00d7efdd3804.png)
 
-
+Programa para saber a nota válida
 
 ![image](https://user-images.githubusercontent.com/72118415/170891387-d55298c7-d49e-4b7d-98d8-52f87504b895.png)
 
