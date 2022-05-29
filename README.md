@@ -13,6 +13,12 @@ Programa para acha o maior e a média
 
 ![image](https://user-images.githubusercontent.com/72118415/170892410-4a40f8c6-6e98-43ae-bfd1-75a341caff47.png)
 
+Programa para achar o números ímpar e par
+
+
+![image](https://user-images.githubusercontent.com/72118415/170892870-3b50d621-1f21-4b90-822a-dbde8a649ab6.png)
+
+
 
 
 *****************************************************************************************
