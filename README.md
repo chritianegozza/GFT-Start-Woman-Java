@@ -33,7 +33,9 @@ Programa para acha o Fatorial
 
 Arrays 
 
+Ordem Inversa
 
+![image](https://user-images.githubusercontent.com/72118415/170895505-a82a0463-3d0c-4475-b1b0-86d9603fc9b9.png)
 
 
 
