@@ -19,6 +19,16 @@ Programa para achar o números ímpar e par
 ![image](https://user-images.githubusercontent.com/72118415/170892870-3b50d621-1f21-4b90-822a-dbde8a649ab6.png)
 
 
+Programa para fazer a tabuada 
+
+
+![image](https://user-images.githubusercontent.com/72118415/170893256-1b0793d5-e874-4b56-8c20-def2383451a7.png)
+
+Programa para acha o Fatorial
+
+
+
+
 
 
 *****************************************************************************************
